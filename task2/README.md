@@ -2,6 +2,8 @@
 
 ## Решение 
 1. Использовался фрейморк https://github.com/open-mmlab/mmclassification, чтобы воспроизвести результат, нужно установить этот фреймворк и скопировать конфиги из папки exp1. 
+2. Запустить обучение можно командой {путь до папки mmclassification}/tools/dist_train.sh configs/homework/homework.py 1
+
 
 ## Описание
 
