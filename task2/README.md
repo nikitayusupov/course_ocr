@@ -5,6 +5,7 @@
 2. Запустить обучение можно командой `{путь до папки mmclassification}/tools/dist_train.sh configs/homework/homework.py 1`
 3. Во время обучения чекпоинты сохраняются в папке `work_dirs`
 4. Чтобы сгенерировать ответы на тест, выполнить такую команду  `./tools/dist_test.sh configs/homework/homework.py work_dirs/homework/epoch_1.pth 1 --out test_preds.json --out-items pred_class`. Вместо `epoch_1` можно подставить чекпоинт нужной эпохи
+5. Ссылка на чекпоинт - https://drive.google.com/file/d/1pfLMioR0aTJDJUe6wq20QAQxQNqvpO1m/view?usp=sharing
  
 
 ## Описание
